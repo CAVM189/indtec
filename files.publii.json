@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "e543bbfbef31969afffd591cb4331f3d"
+        "md5": "26eed01f3320083c8801fcddf2fd966c"
     },
     {
         "path": "asesoria",
@@ -12,7 +12,7 @@
     {
         "path": "/asesoria/index.html",
         "type": "file",
-        "md5": "07c465a02851da79f0beb8b87a73d4bd"
+        "md5": "b33388d9cd4414a504ed25ce837e9a09"
     },
     {
         "path": "assets",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/cv/index.html",
         "type": "file",
-        "md5": "9873db60ea0900d1a7090c37429c6c7c"
+        "md5": "e67d61dc7692a1dc6d7922d97825641b"
     },
     {
         "path": "authors/cv/page",
@@ -157,7 +157,7 @@
     {
         "path": "/authors/cv/page/2/index.html",
         "type": "file",
-        "md5": "b34aad2d3325ea7394dff1f28c6f465c"
+        "md5": "bd2509fabb84482f8349bf752dc9366e"
     },
     {
         "path": "comercializacion",
@@ -167,7 +167,7 @@
     {
         "path": "/comercializacion/index.html",
         "type": "file",
-        "md5": "e9269008b0cab8d7fa59ffe7ccb5bc24"
+        "md5": "cf59fb1ff741a9744f317624f88c8103"
     },
     {
         "path": "contacto",
@@ -177,12 +177,22 @@
     {
         "path": "/contacto/index.html",
         "type": "file",
-        "md5": "aace3f6bc23b9d5d603083713038bd3e"
+        "md5": "aa2656f1bd5b365143a9957ff092ae1d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "f2faa3aa9551c65cd7bc6e388df5115c"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9bb7d75be9d4920eaf81627a24e8f275"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "eea98a7c9dcdba3a49ea75fc3005fd9a"
+        "md5": "42596f7ed697edfb57c9723b04a65ab5"
     },
     {
         "path": "ingenieria",
@@ -192,7 +202,7 @@
     {
         "path": "/ingenieria/index.html",
         "type": "file",
-        "md5": "9d5428c89fadb2d65db00318c2985a47"
+        "md5": "d3e9685e7c3854ca323c5aa6fddc71e5"
     },
     {
         "path": "instalacion",
@@ -202,7 +212,7 @@
     {
         "path": "/instalacion/index.html",
         "type": "file",
-        "md5": "11ff9d8dd15326cca0c8b0828d761e05"
+        "md5": "1e78ea094ddcd0f5255b690fc9bb88be"
     },
     {
         "path": "mantenimiento",
@@ -212,7 +222,7 @@
     {
         "path": "/mantenimiento/index.html",
         "type": "file",
-        "md5": "241e1aeff68b5c06b847b456b9d487bb"
+        "md5": "6caa367e2215d54c09dc09d7c988b3cc"
     },
     {
         "path": "media",
@@ -2202,7 +2212,7 @@
     {
         "path": "/nosotros/index.html",
         "type": "file",
-        "md5": "490123f1dc5df8db422149ad546dab4e"
+        "md5": "c910f4612afebb25b25896c2ec0dcce5"
     },
     {
         "path": "pre-ingenieria-3",
@@ -2212,7 +2222,7 @@
     {
         "path": "/pre-ingenieria-3/index.html",
         "type": "file",
-        "md5": "27a83d22c14e941259c824a5b5aaaeef"
+        "md5": "d7a0081f97b804eb3584696e0850d3e3"
     },
     {
         "path": "productos",
@@ -2222,7 +2232,7 @@
     {
         "path": "/productos/index.html",
         "type": "file",
-        "md5": "e2c90efb1d846ce0b9b3b536388886e1"
+        "md5": "9d4bd03376eee32481503d0790f65261"
     },
     {
         "path": "prueba",
@@ -2232,7 +2242,7 @@
     {
         "path": "/prueba/index.html",
         "type": "file",
-        "md5": "3109c27108f4c7b2f1bb2235b78eea21"
+        "md5": "376c776a916b70e391c676cd006f54b6"
     },
     {
         "path": "prueba/pg1",
@@ -2242,12 +2252,12 @@
     {
         "path": "/prueba/pg1/index.html",
         "type": "file",
-        "md5": "0824f5b5040aebc7fd9e30e682fe310e"
+        "md5": "b300519a98df7ff4ef5cccbadd29d9e1"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "a4c4530f841aa744daeaad228d21e966"
     },
     {
         "path": "servicios",
@@ -2257,7 +2267,17 @@
     {
         "path": "/servicios/index.html",
         "type": "file",
-        "md5": "7c5867e03bbb8844352c878c2f64ad47"
+        "md5": "136f0a5af64dce34fb5b415996c93e0e"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "de4a45a677e504fb2f515bd6c9929fb5"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "supervision",
@@ -2267,7 +2287,7 @@
     {
         "path": "/supervision/index.html",
         "type": "file",
-        "md5": "d8e5234f36a23885751b9e370e26a5f9"
+        "md5": "ee6785e51d65af8199e7862d33d5f48f"
     },
     {
         "path": "tags",
@@ -2277,7 +2297,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "8885b3292cd7d0169a186f897bcae10c"
+        "md5": "dd2e13bcd7497b025c60e3f83978bc33"
     },
     {
         "path": "tags/servicios",
@@ -2287,6 +2307,6 @@
     {
         "path": "/tags/servicios/index.html",
         "type": "file",
-        "md5": "36605cc1a9a4e4cbc146831e70751884"
+        "md5": "56fee5d283911db77adbf5504d9909fb"
     }
 ]
